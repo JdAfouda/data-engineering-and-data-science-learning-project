@@ -22,7 +22,6 @@ Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **Python*
 | [Delta Hedging Simulation](./delta-hedging-simulation) | Simulation dynamique d’un hedge de portefeuille | Python |
 | [Market Maker VBA](./market-maker-vba) | Mini market maker en Excel avec bid/ask auto-calculé | Excel/VBA |
 | [Backtest de stratégie](./portfolio-backtest) | Backtest de stratégies simples sur options | Python |
-| [Préparation entretien](./entretien-preparation) | Notes, questions types, scénarios de stress | Markdown |
 | [Ressources](./ressources) | Livres, MOOCs, fonctions Bloomberg utiles | Markdown |
 
 ---
