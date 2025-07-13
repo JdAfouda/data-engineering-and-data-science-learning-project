@@ -1,7 +1,7 @@
 # 💼 Finance Quant Projects
 
 Bienvenue sur mon portfolio de projets techniques en Finance de marché.
-Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **Python**, et **mathématiques financières**, tout en préparant les entretiens pour des postes en trading, structuration, ou data science appliquée à la finance.
+Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **Python**, et **mathématiques financières**, tout en préparant les entretiens pour des postes en Trading, structuration, ou data science appliquée à la finance.
 
 ---
 
