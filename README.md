@@ -7,8 +7,11 @@ Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **Python*
 
 ## 🧰 Compétences mises en œuvre
 
-- Python : simulation de portefeuille, backtesting, calculs de greeks
-- Excel/VBA/Power BI/SQL : pricing, dashboards PnL, outils interactifs
+- Python : simulation de portefeuille, backtesting, calculs de greeks, pricing, data pipelines
+- Excel/VBA : pricing, dashboards PnL, outils interactifs
+- SQL : requêtes analytiques pour l’étude de carnets d’ordres
+- Power BI : visualisation de portefeuilles, rendements, ratios de risque
+- PySpark : traitement distribué de données massives, agrégation de risques
 - Mathématiques financières : modèles de Black-Scholes, delta hedging, scénarios de stress
 - Connaissance des produits : vanilles, exotiques, FX, taux, equity
 
@@ -24,6 +27,7 @@ Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **Python*
 | Backtest de stratégie | Backtests de stratégies simples sur options | Python |
 | PowerBI Portfolio Dashboard | Dashboard interactif de performance d’un portefeuille multi-actifs | Power BI |
 | SQL Market Order Analytics | Analyse SQL d’un carnet d’ordres et détection de patterns de marché | SQL (PostgreSQL) |
+| Market Risk with Spark | Agrégation de risques de marché sur gros volumes de données avec Spark | PySpark, Hadoop |
 | Resources | Livres, MOOCs, fonctions Bloomberg utiles | Markdown |
 
 ---
