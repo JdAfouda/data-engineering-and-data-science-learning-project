@@ -43,4 +43,3 @@ Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **SQL**, 
 
 💼 [LinkedIn](linkedin.com/in/jean-daniel-o-afouda-9a5400a7)
 📧 Email : jeandanielafouda@gmail.com
-📄 En cours d’obtention du CFA (inscription 2026 prévue).
