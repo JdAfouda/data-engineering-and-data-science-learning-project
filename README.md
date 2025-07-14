@@ -16,13 +16,15 @@ Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **Python*
 
 ## 📁 Projets inclus
 
-| Projet | Description | Outils |
-|--------|-------------|--------|
-| [Black-Scholes Pricing](./black-scholes-pricing) | Modèle de pricing interactif + visualisation des greeks | Python, Jupyter |
-| [Delta Hedging Simulation](./delta-hedging-simulation) | Simulation dynamique d’un hedge de portefeuille | Python |
-| [Market Maker VBA](./market-maker-vba) | Mini market maker en Excel avec bid/ask auto-calculé | Excel/VBA |
-| [Backtest de stratégie](./portfolio-backtest) | Backtest de stratégies simples sur options | Python |
-| [Ressources](./ressources) | Livres, MOOCs, fonctions Bloomberg utiles | Markdown |
+| Nom du projet | Description | Outils |
+|---------------------------|--------------------------------------------------------------------------|------------------|
+| Black-Scholes Pricing | Modèle de pricing interactif + visualisation des greeks | Python, Jupyter |
+| Delta Hedging Simulation | Simulation dynamique d’un hedge de portefeuille | Python |
+| Market Maker VBA | Mini market maker en Excel avec bid/ask auto-calculé | Excel/VBA |
+| Backtest de stratégie | Backtests de stratégies simples sur options | Python |
+| PowerBI Portfolio Dashboard | Dashboard interactif de performance d’un portefeuille multi-actifs | Power BI |
+| SQL Market Order Analytics | Analyse SQL d’un carnet d’ordres et détection de patterns de marché | SQL (PostgreSQL) |
+| Resources | Livres, MOOCs, fonctions Bloomberg utiles | Markdown |
 
 ---
 
