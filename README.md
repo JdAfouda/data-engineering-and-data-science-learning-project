@@ -8,7 +8,7 @@ Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **Python*
 ## 🧰 Compétences mises en œuvre
 
 - Python : simulation de portefeuille, backtesting, calculs de greeks
-- Excel/VBA : pricing, dashboards PnL, outils interactifs
+- Excel/VBA/Power BI/SQL : pricing, dashboards PnL, outils interactifs
 - Mathématiques financières : modèles de Black-Scholes, delta hedging, scénarios de stress
 - Connaissance des produits : vanilles, exotiques, FX, taux, equity
 
