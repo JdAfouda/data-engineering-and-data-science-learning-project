@@ -28,12 +28,4 @@ Exemple :
 
 🧰 Outils & technologies
 Excel : Interface utilisateur + calculs
-
 VBA : Logique métier (pricing, exécution, mise à jour des positions/PnL)
-
-🗂️ Structure du projet
-market-maker-vba/
-│
-├── MarketMaker.xlsm         # Fichier Excel avec macros activées
-├── README.md                # Présentation du projet
-└── screenshots/             # (optionnel) Captures d'écran de l'interface
