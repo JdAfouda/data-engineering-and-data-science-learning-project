@@ -22,11 +22,10 @@ Paramétrage des spreads et tailles de lots via l’interface Excel
 🖼️ Aperçu
 
 
-(Ajoute ici un ou deux screenshots si tu veux : par exemple une capture de l’interface Excel et du PnL en fonctionnement)
-
 Exemple :
 
-![Interface Excel du Market Maker](./screenshots/market_maker_excel_interface.png)
+<img width="743" height="542" alt="{9170DA68-8B43-4C18-926D-312B2B5268E3}" src="https://github.com/user-attachments/assets/8b6bb569-ef54-4058-96d4-1f9eb80ae118" />
+
 🧰 Outils & technologies
 Excel : Interface utilisateur + calculs
 
