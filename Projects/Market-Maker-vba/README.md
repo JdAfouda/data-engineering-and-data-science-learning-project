@@ -1,5 +1,4 @@
 📊 Market Maker VBA
-
 Ce projet a pour but de simuler un mini market maker en utilisant Excel/VBA, pour comprendre les mécanismes de formation des prix bid/ask, la tenue de carnet d’ordres, et le suivi d’un PnL dynamique. Il permet d’explorer de manière interactive les bases du market making, sans infrastructure de marché en temps réel.
 
 ⚙️ Fonctionnalités principales
@@ -11,8 +10,6 @@ Détection de dépassement de risque (position ou perte max)
 Paramétrage des spreads et tailles de lots via l’interface Excel
 
 🖼️ Aperçu
-
-
 Exemple :
 
 <img width="743" height="542" alt="{9170DA68-8B43-4C18-926D-312B2B5268E3}" src="https://github.com/user-attachments/assets/8b6bb569-ef54-4058-96d4-1f9eb80ae118" />
