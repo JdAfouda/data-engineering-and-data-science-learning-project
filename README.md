@@ -5,10 +5,10 @@ Ce dépôt a pour objectif de démontrer mes compétences en **Excel/VBA**, **SQ
 
 Chaque projet illustre une progression logique : partir d’un cas concret en finance de marché, puis l’enrichir avec des outils de plus en plus puissants.
 
-👉 Objectif : Montrer ma capacité à scaler un même problème du simple (VBA) vers l’avancé (Big Data, ML, IA).
+L’objectif est double :
 
-
-
+📌 Montrer ma capacité à résoudre un même problème financier avec plusieurs approches, du plus simple au plus avancé.
+📌 Démontrer des compétences transverses en finance quantitative, data science et ingénierie de données.
 
 
 ## 🏗️ Hiérarchie d’un cas appliqué : du VBA au Machine Learning
@@ -76,4 +76,6 @@ Objectif : montrer ma capacité à **scaler un même problème** du simple (VBA)
 - **Valeur ajoutée** : Un **assistant intelligent** exploitant tout le pipeline
 
 ---
+
+Ce portfolio illustre un parcours progressif et structuré : partir d’outils pédagogiques (Excel/VBA) pour comprendre la finance de marché, puis étendre progressivement vers le décisionnel (Power BI), la structuration (SQL), la scalabilité (PySpark/Databricks) et enfin l’intelligence artificielle appliquée (Machine Learning, IA générative).
 
