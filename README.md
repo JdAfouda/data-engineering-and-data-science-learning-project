@@ -12,7 +12,7 @@ Chaque projet illustre une progression logique : partir d’un cas concret en fi
 ## 🏗️ Hiérarchie d’un cas appliqué : du VBA au Machine Learning
 
 Ce portfolio suit une logique progressive : partir d’un cas concret en **finance de marché**, puis le décliner et l’enrichir avec des outils de plus en plus puissants.
-Objectif : montrer ma capacité à **scaler un même problème** du simple (VBA) vers l’avancé (Big Data, ML, IA).
+Objectif : montrer ma capacité à **scaler un même problème** du simple (VBA) vers l’avancé (**Big Data**, **ML**, **IA**).
 
 ---
 
