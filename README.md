@@ -7,7 +7,7 @@ Chaque projet illustre une progression logique : partir d’un cas concret en fi
 
 L’objectif est double :  
 
-📌Montrer ma capacité à résoudre un même problème financier avec plusieurs approches, du plus simple au plus avancé.
+📌Montrer ma capacité à résoudre un même problème financier avec plusieurs approches, du plus simple au plus avancé.  
 📌Démontrer des compétences transverses en finance quantitative, data science et ingénierie de données.
 
 
