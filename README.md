@@ -1,4 +1,4 @@
-📈 Finance Quant Projects
+## 📈 Finance Quant Projects
 
 Bienvenue sur mon portfolio de projets techniques en Finance de marché.
 Ce dépôt a pour objectif de démontrer mes compétences en **Excel/VBA**, **SQL**, **Power BI**, **Python**, **PySpark**, **Machine Learning** et mes connaissances des produits financiers.
