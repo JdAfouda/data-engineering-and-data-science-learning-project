@@ -5,10 +5,10 @@ Ce dépôt a pour objectif de démontrer mes compétences en **Excel/VBA**, **SQ
 
 Chaque projet illustre une progression logique : partir d’un cas concret en finance de marché, puis l’enrichir avec des outils de plus en plus puissants.
 
-L’objectif est double :
+L’objectif est double :  
 
-**📌** Montrer ma capacité à résoudre un même problème financier avec plusieurs approches, du plus simple au plus avancé.
-**📌** Démontrer des compétences transverses en finance quantitative, data science et ingénierie de données.
+📌Montrer ma capacité à résoudre un même problème financier avec plusieurs approches, du plus simple au plus avancé.
+📌Démontrer des compétences transverses en finance quantitative, data science et ingénierie de données.
 
 
 ## 🏗️ Hiérarchie d’un cas appliqué : du VBA au Machine Learning
