@@ -1,45 +1,72 @@
 # 💼 Finance Quant Projects
 
 Bienvenue sur mon portfolio de projets techniques en Finance de marché.
-Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **SQL**, **Power BI**, **PySpark**, **Python**, **mathématiques financières** et mes **Connaissances des produits**, tout en préparant les entretiens pour des postes en Trading, structuration, ou data science appliquée à la finance.
+Ce dépôt a pour but de démontrer mes compétences en **Excel/VBA**, **SQL**, **Power BI**, **PySpark**, **Python**, **mathématiques financières** et mes **Connaissances des produits**, tout en préparant les entretiens pour des postes en Trading,data science appliquée à la finance.
+
+## 🏗️ Hiérarchie d’un cas appliqué : du VBA au Machine Learning
+
+Ce portfolio suit une logique progressive : partir d’un cas concret en **finance de marché**, puis le décliner et l’enrichir avec des outils de plus en plus puissants.
+Objectif : montrer ma capacité à **scaler un même problème** du simple (VBA) vers l’avancé (Big Data, ML, IA).
 
 ---
 
-## 🧰 Compétences mises en œuvre
-
-- Python : simulation de portefeuille, backtesting, calculs de greeks, pricing, data pipelines
-- Excel/VBA : pricing, dashboards PnL, outils interactifs
-- SQL : requêtes analytiques pour l’étude de carnets d’ordres
-- Power BI : visualisation de portefeuilles, rendements, ratios de risque
-- PySpark : traitement distribué de données massives, agrégation de risques
-- Mathématiques financières : modèles de Black-Scholes, delta hedging, scénarios de stress
-- Connaissance des produits : vanilles, exotiques, FX, taux, equity
+### 💻 1. VBA (Excel) → Simulation simple
+- **Cas** : Pricing Black-Scholes / Delta Hedging sur options vanilles
+- **Objectif** :
+- Construire un pricer en VBA pour calculer le prix et les greeks
+- Simuler un portefeuille avec couverture Delta
+- **Valeur ajoutée** : Automatisation *pédagogique*, finance pure + programmation simple
 
 ---
 
-## 📁 Projets inclus
-
-| Nom du projet | Description | Outils |
-|---------------------------|--------------------------------------------------------------------------|------------------|
-| Black-Scholes Pricing | Modèle de pricing interactif + visualisation des greeks | Python, Jupyter |
-| Delta Hedging Simulation | Simulation dynamique d’un hedge de portefeuille | Python |
-| Market Maker VBA | Mini market maker en Excel avec bid/ask auto-calculé + Carnet de position | Excel/VBA |
-| Backtest de stratégie | Backtests de stratégies simples sur options | Python |
-| PowerBI Portfolio Dashboard | Dashboard interactif de performance d’un portefeuille multi-actifs | Power BI |
-| SQL Market Order Analytics | Analyse SQL d’un carnet d’ordres et détection de patterns de marché | SQL (PostgreSQL) |
-| Market Risk with Spark | Agrégation de risques de marché sur gros volumes de données avec Spark | PySpark, Hadoop |
-| Resources | Livres, MOOCs.
+### 📊 2. Power BI → Dashboard interactif
+- **Cas** : Portfolio Dashboard
+- **Objectif** :
+- Exporter les résultats du pricer VBA (PnL, volatilité, greeks)
+- Créer un dashboard : PnL cumulé, VaR, Sharpe, stress tests
+- **Valeur ajoutée** : Passage du *calcul brut* → **visualisation décisionnelle**
 
 ---
 
-## 🎯 Objectif
-
-- Apprentissage rigoureux de la finance de marché
-- Apprentissage rigoureux du Data Engineering et de la Data Science
+### 🗄️ 3. SQL → Structuration des données
+- **Cas** : Historique de transactions et options chain
+- **Objectif** :
+- Stocker les données de marché dans une base SQL
+- Requêtes analytiques : PnL par date, exposé au risque, distribution des greeks
+- **Valeur ajoutée** : Professionnalisation → **données centralisées, requêtables**
 
 ---
 
-## 📎 Me contacter
+### ☁️ 4. Databricks (PySpark) → Traitement Big Data
+- **Cas** : Analyse massive de données de marché
+- **Objectif** :
+- Importer plusieurs années de données (tick data, options chain)
+- Nettoyage + feature engineering (volatilité réalisée, skew, spreads)
+- Préparer les datasets pour le Machine Learning
+- **Valeur ajoutée** : Gestion de **volumes massifs** + pipelines data engineering
 
-💼 [LinkedIn](linkedin.com/in/jean-daniel-o-afouda-9a5400a7)
-📧 Email : jeandanielafouda@gmail.com
+---
+
+### 🤖 5. Machine Learning / Deep Learning → Prédiction avancée
+- **Cas** : Volatility Forecasting
+- **Objectif** :
+- Baseline : ARIMA, GARCH
+- Deep Learning : LSTM / GRU pour séries temporelles
+- Comparaison des performances (RMSE, MAPE)
+- **Valeur ajoutée** : Passage à l’**intelligence prédictive**
+
+---
+
+### 🧠 6. RAG Chatbot (IA générative) → Assistant intelligent
+- **Cas** : Financial Knowledge Assistant
+- **Objectif** :
+- Chatbot RAG (Retrieval Augmented Generation) pour interroger rapports financiers et résultats ML
+- Stack : Python, LangChain, FAISS/Pinecone, Streamlit
+- **Cas d’usage** :
+- "Quelle est la volatilité prévue de AAPL la semaine prochaine ?"
+- "Quel était le delta hedge optimal le 15/02/2024 ?"
+- **Valeur ajoutée** : Un **assistant intelligent** exploitant tout le pipeline
+
+---
+
+## 📌 Résumé visuel
