@@ -50,7 +50,7 @@ Ce repository regroupe différents projets autour de l’analyse **ESG (Environn
 - ⚙️ Fonctionnalités :  
   - Prédiction de la volatilité des marchés financiers.  
   - Intégration de variables ESG comme facteurs explicatifs.  
-  - Modèles ML/DL testés pour améliorer la robustesse prédictive.  
+  - Modèles ML/DL testés pour améliorer la robustesse prédictive.
 
 ---
 
